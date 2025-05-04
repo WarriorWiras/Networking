@@ -1,12 +1,11 @@
-# 🌐 ICT1013 Computer Network Project – IT Learning Hub Infrastructure
+# 🌐 Computer Network Project – IT Learning Hub Infrastructure
 
 [![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com)
 [![Miro](https://img.shields.io/badge/Diagram-Miro-yellow)](https://miro.com)
-[![School Project](https://img.shields.io/badge/Project-Type:%20Academic-red)]()
 
 ## 📘 About the Project
 
-This repository contains the network design and documentation for the **ICT1013 Group Project**, which involves building a **robust enterprise LAN** for a fictional IT Learning Hub aligned with the **UN 2030 Agenda for Sustainable Development**.
+This repository contains the network design and documentation for the **Computer Network Group Project**, which involves building a **robust enterprise LAN** for a fictional IT Learning Hub aligned with the **UN 2030 Agenda for Sustainable Development**.
 
 The project simulates a **3-tier architecture** using **Cisco Packet Tracer**, enabling:
 - Redundant **internet connectivity**
@@ -30,9 +29,9 @@ The project simulates a **3-tier architecture** using **Cisco Packet Tracer**, e
 | Design Tool   | Miro.com                                   |
 | Routing       | OSPFv2, Static Routing, HSRP               |
 | Addressing    | VLSM, NAT (PAT/Overload), DHCP             |
-| Switching     | VLANs, EtherChannel (PAGP), STP            |
+| Switching     | VLANs, EtherChannel (PAGP)                 |
 | Services      | DNS (Authoritative & Caching), Web Server |
-| OS/Stack      | XAMPP, Windows 10 (Simulated Host)         |
+| OS/Stack      | XAMPP, Windows 11 (Simulated Host)         |
 | AI Assistant  | ChatGPT (for clarification/documentation)  |
 
 ---
