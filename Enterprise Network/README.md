@@ -49,7 +49,7 @@ The project simulates a **3-tier architecture** using **Cisco Packet Tracer**, e
 
 ## 🔍 Key Network Topology Overview
 
-📎 [View our full interactive network diagram on Miro](https://miro.com/welcomeonboard/NWIybk5ON002c3dQQmU4MEZJeC9Ta2c2aVBnQ3c5Rmc0UURoelRpZURHN0x4OHhTd3RNYWpDbVQ4UTRTQm9ldzNydW5QNHNMeXFMQW9EWkFicGJDSHczcmlBaWg3ekZuTnZVb1kyOU01ai9CY3VPZlBYU2VCMjlRUjZYc2RkQVdhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE%3D?share_link_id=879219975505)
+📎 [View our full interactive network diagram on Miro](https://miro.com/app/live-embed/uXjVIU_j8Do=/?moveToViewport=-5330,1637,9667,4374&embedId=906847453072)
 
 🖼️ The diagram includes:
 - 4 access switches (SW1–SW4)
@@ -75,21 +75,11 @@ Despite its benefits, we also observed some drawbacks:
 
 ## ⚠️ Disclaimers
 
-> 🛑 **This is a school project** developed as part of the **ICT1013 Computer Networks module** at [Your School Name].
+> 🛑 **This is a school project** developed as part of the **Computer Networks module** at Singapore Institute of Technology.
 
 > 🧰 **Cisco Packet Tracer** is a proprietary simulation tool by Cisco and is used here for **educational purposes only**. All configurations and simulations are fictional.
 
 > 🧩 **Miro** is a third-party collaborative diagramming platform used to visualize our network. The visual topology is a **conceptual representation** and not affiliated with any real-world enterprise.
-
----
-
-## 👥 Contributors
-
-- **Adil Amr Bin Qamaruzzaman**
-- **Muhd Wafiyuddin Bin Abdul Rahman**
-- **Nurul Aida Binte Zakaria**
-- **Muhammad Nafis Bin Mohamed Idris**
-- **Muhammad Saad Bin Hadi**
 
 ---
 
@@ -98,5 +88,3 @@ Despite its benefits, we also observed some drawbacks:
 This repository is provided for educational reference only and is **not intended for commercial use**.
 
 ---
-
-🛰️ _"Building networks for a better-connected future."_
